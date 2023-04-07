@@ -1,6 +1,6 @@
 ## Useless Dictionary
 
-Tired of boring* and predictable definitions? Try the ~~Useless~~ Dictionary! Guaranteed to give you *a* definition every single time!
+Tired of boring* and predictable definitions? Try the ~~Useless~~ Dictionary—guaranteed to give you *a* definition every single time!
 
 Created for the [MLH API Week](https://ghw.mlh.io/) Create a Useless API Hack Challenge.
 
