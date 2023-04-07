@@ -1,6 +1,7 @@
 :root {
   --text: black;
   --bg: rgb(252, 252, 252);
+  --input-bg: #f6f6f6;
 }
 * {
   margin: 0;
@@ -18,6 +19,8 @@ body {
   overflow-x: hidden;
   font-family: -apple-system, BlinkMacSystemFont, Segoe UI, Roboto, Oxygen,
     Ubuntu, Cantarell, Fira Sans, Droid Sans, Helvetica Neue, sans-serif;
+  background-color: var(--bg);
+  color: var(--text);
 }
 body,
 main {
@@ -31,8 +34,6 @@ main {
   :root {
     --text: rgb(252, 252, 252);
     --bg: black;
+    --input-bg: #393939;
   }
-}
-
-@media (prefers-reduced-motion) {
 }

@@ -12,7 +12,7 @@
   --width-of-input: 200px;
   --height-of-input: 40px;
   --border-height: 2px;
-  --input-bg: #f6f6f6;
+  /* --input-bg: #f6f6f6; */
   --border-color: #2f2ee9;
   --border-radius: 30px;
   --after-border-radius: 1px;
@@ -35,6 +35,7 @@
   padding-inline: 0.5em;
   padding-block: 0.7em;
   border: none;
+  color: var(--text);
 }
 /* styling of animated border */
 .form:before {
